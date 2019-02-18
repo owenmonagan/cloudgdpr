@@ -1,30 +1,13 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Cloud GDPR
 
+The website behind http://cloudgdpr.us/.
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+### DATA PROTECTION BY DATA ENGINEERS
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Based in the united states, our european team of experienced data protection officers and data engineers will ensure your organization is gdpr compliant.
 
-(* = not included)
+Our model ensures org's can achieve compliance in house - perfect for startups!
 
-AJ
-aj@lkn.io | @ajlkn
+For in-depth analysis, consultation, and training via web or onsite check out our services page.
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Contact us at any time to discuss possible projects and receive a free industry based gdpr risk assessment.
